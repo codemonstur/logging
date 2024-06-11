@@ -1,0 +1,14 @@
+include https://raw.githubusercontent.com/codemonstur/bobfiles/master/foss-lib-github-maven
+
+vendor: com.github.codemonstur
+name: logging
+version: 1.0.0
+packaging: jar
+release: 19
+enablePreview: false
+description: Some logging helpers
+license:
+  name: MIT
+developer:
+  name: Jurgen Voorneveld
+  email: jegvoorneveld@gmail.com
